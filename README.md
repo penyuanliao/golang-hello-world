@@ -1,2 +1,2 @@
-# golang-hellowrod
+# golang-hello-world
 golang
